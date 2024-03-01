@@ -131,7 +131,7 @@
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
 - [despo/issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! (domain update)
 - [CyC2018/Text-Typesetting](https://github.com/CyC2018/Text-Typesetting) - :art: 中英混排文档在线排版工具
-- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [elendirx/web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
 - [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
@@ -166,7 +166,6 @@
 - [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [jining1/reading](https://github.com/jining1/reading) - OpenmindClub IA005 project：以认知的角度看阅读
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino) - Github issue cloning tool
@@ -399,7 +398,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box 
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -474,6 +473,7 @@
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [nedbat/dot](https://github.com/nedbat/dot) - Personal dotfiles
+- [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) - 独立开发/自由职业/远程工作资源列表
 - [zhoupro/os_init](https://github.com/zhoupro/os_init) - make your dev computer in a coffee time
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
@@ -505,6 +505,7 @@
 - [hypertrons/hypertrons-crx](https://github.com/hypertrons/hypertrons-crx) - A browser extension for insights into GitHub projects and developers.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [yanlele/node-index](https://github.com/yanlele/node-index) - 学习笔记、博文、简书、工作日常踩坑记录以及一些独立作品的汇总目录
 - [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum, based on Vulcan JS
