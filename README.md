@@ -92,7 +92,7 @@
 
 - [MartialBE/one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 - [ZhengHe-MD/ir-freiburg](https://github.com/ZhengHe-MD/ir-freiburg) - 
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -238,7 +238,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [sunnylife42/docs](https://github.com/sunnylife42/docs) - 战略管理越扎实，理想生活越可达。配备这组「人生战略管理帮手」，一起有思路有行动、灵活创造想要的生活 😋
+- [sunnylife42/docs](https://github.com/sunnylife42/docs) - 战略管理越扎实，理想生活越可达。配备这组「人生战略管理帮手」，一起有思路有行动，灵活兼顾「爱与成就」 😋
 
 ## Makefile 
 
@@ -250,6 +250,7 @@
 
 ## Markdown 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Objective-C 
@@ -260,6 +261,7 @@
 
 ## Others 
 
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG) - 
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -274,7 +276,6 @@
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [wwj718/forum-poetry](https://github.com/wwj718/forum-poetry) - 收集整理我喜欢的网络诗集
 - [windowsyuli/Crawler](https://github.com/windowsyuli/Crawler) - Crawler
-- [p0keeper/Pentest-Notes](https://github.com/p0keeper/Pentest-Notes) - 《内网安全攻防-渗透测试实战指南》一些技术点概括
 - [amaas/stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
 - [lazyparser/minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader) - 极简主义团队管理操作手册
 - [karanotsingyu/AwesomeCoCoSci](https://github.com/karanotsingyu/AwesomeCoCoSci) - Computational Cognitive Science (计算认知科学). ⚠️The maintainence of this repo had been suspended. Please take a look at the only repo mentioned in the English readme.
@@ -320,7 +321,6 @@
 - [anvaka/greview](https://github.com/anvaka/greview) - Books that I read and their neighborhoods
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
@@ -380,6 +380,7 @@
 
 ## Python 
 
+- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
@@ -391,7 +392,7 @@
 - [aigc-apps/EasyPhoto](https://github.com/aigc-apps/EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator. Without Stable-Diffusion-Webui
 - [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles) - Open-Source Reproduction/Demo of the LLM Riddles Game
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
@@ -413,7 +414,7 @@
 - [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
@@ -429,6 +430,7 @@
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [RSS-Renaissance/awesome-AnRen-feeds](https://github.com/RSS-Renaissance/awesome-AnRen-feeds) - 此项目为「安人书院」书友们的博客聚合。
 - [chenjiandongx/weekly-email-subscribe](https://github.com/chenjiandongx/weekly-email-subscribe) - 阮一峰技术周刊邮件订阅
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [qxf2/wtfiswronghere](https://github.com/qxf2/wtfiswronghere) - A collection of simple errors that beginners are likely to hit when they start writing Python.
 - [awolfly9/jd_analysis](https://github.com/awolfly9/jd_analysis) - 京东商城评价信息数据分析。查看示例：http://awolfly9.com/article/jd_comment_analysis
@@ -461,6 +463,8 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -503,6 +507,7 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [Charca/astro-photo-gallery](https://github.com/Charca/astro-photo-gallery) - Astro + View Transitions Photo Gallery Demo
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
