@@ -125,7 +125,7 @@
 
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+- [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [PE-CN/PE-CN.github.io](https://github.com/PE-CN/PE-CN.github.io) - Project Euler | 欧拉计划 中文翻译站
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [skr-shop/manuals](https://github.com/skr-shop/manuals) - Do design No code 💻📱🛒📚
@@ -242,6 +242,7 @@
 
 ## Makefile 
 
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [xdite/internet-security](https://github.com/xdite/internet-security) - 互联网资安风控实战
@@ -297,7 +298,7 @@
 - [sarsbiker/chengduorhangzhou](https://github.com/sarsbiker/chengduorhangzhou) - 论证分析
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [XiangruiCAI/Starter_Kit_for_New_DBIS_Students](https://github.com/XiangruiCAI/Starter_Kit_for_New_DBIS_Students) - 
-- [gavincoder-china/report_gather](https://github.com/gavincoder-china/report_gather) - 行业内领先的报告集合。感谢蜜蜂学堂的大力支持  （使用chrome F3键来搜索）(mac 下是 shift+command+G)
+- [gavincoder-china/LLM_Learning_Database](https://github.com/gavincoder-china/LLM_Learning_Database) - 行业内领先的大语言模型学习资料。
 - [heshenxian1/awesome-triz](https://github.com/heshenxian1/awesome-triz) - TRIZ resources，Innovation Algorithm；创新算法奇妙清单，系统创造，问题解决理论
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [heshenxian1/OpenMindClass](https://github.com/heshenxian1/OpenMindClass) - 开智越读会友。开智正典精读，越读悦读阅读。
@@ -380,6 +381,10 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
@@ -463,6 +468,9 @@
 
 ## Rust 
 
+- [maulik9898/gus-rs](https://github.com/maulik9898/gus-rs) - A simple Git User Switching app written in rust.
+- [rust10x/rust-web-app](https://github.com/rust10x/rust-web-app) - Code template for a production Web Application using Axum: The AwesomeApp Blueprint for Professional Web Development.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
