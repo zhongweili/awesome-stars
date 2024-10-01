@@ -128,6 +128,7 @@
 
 ## HTML 
 
+- [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
@@ -158,12 +159,11 @@
 
 ## JavaScript 
 
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [huhu/query.rs](https://github.com/huhu/query.rs) - A search engine for Rust
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [ZhengHe-MD/equator](https://github.com/ZhengHe-MD/equator) - The Plan: Equator
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
@@ -239,7 +239,7 @@
 ## MDX 
 
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -267,6 +267,7 @@
 
 ## Others 
 
+- [matteocourthoud/awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - A curated list of causal inference libraries, resources, and applications.
 - [willard-yuan/awesome-cbir-papers](https://github.com/willard-yuan/awesome-cbir-papers) - 📝Awesome and classical image retrieval papers
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -284,7 +285,6 @@
 - [ZhengHe-MD/database-of-tracing-systems](https://github.com/ZhengHe-MD/database-of-tracing-systems) - database of tracing systems
 - [generalized-intelligence/gi-Chinese-Style-Guide](https://github.com/generalized-intelligence/gi-Chinese-Style-Guide) - 用于中文写作的文风指南，泛化智能出品。
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [wwj718/forum-poetry](https://github.com/wwj718/forum-poetry) - 收集整理我喜欢的网络诗集
 - [jinliyl/Crawler](https://github.com/jinliyl/Crawler) - Crawler
 - [amaas/stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
@@ -360,7 +360,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [monklof/Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) - 后端开发面试题，翻译自 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
-- [ihchiz/Awesome-Linux-Software-zh_CN](https://github.com/ihchiz/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+- [wchichih/Awesome-Linux-Software-zh_CN](https://github.com/wchichih/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [hscspring/ALL4AI](https://github.com/hscspring/ALL4AI) - AI Related Tools/Projects
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
@@ -392,6 +392,7 @@
 ## Python 
 
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
 - [jellydn/modern-python-2024-demo](https://github.com/jellydn/modern-python-2024-demo) - Modern development with Python in 2024
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
@@ -400,7 +401,6 @@
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
-- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [zhongweili/chatmovie](https://github.com/zhongweili/chatmovie) - 
 - [amisadmin/fastapi-user-auth](https://github.com/amisadmin/fastapi-user-auth) - FastAPI-User-Auth is a simple and powerful FastAPI user RBAC authentication and authorization library. Based on FastAPI-Amis-Admin and provides a freely extensible visual management interface.
 - [ErikBjare/are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!
@@ -409,6 +409,7 @@
 - [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles) - Open-Source Reproduction/Demo of the LLM Riddles Game
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
@@ -422,7 +423,7 @@
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box 
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)【安全加固，暂停交互，请耐心等待】
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [omerfarukeker/imdb_work](https://github.com/omerfarukeker/imdb_work) - Exploratory analysis on the IMDB movie database
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
@@ -537,6 +538,7 @@
 - [Charca/astro-photo-gallery](https://github.com/Charca/astro-photo-gallery) - Astro + View Transitions Photo Gallery Demo
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -557,9 +559,9 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## Vim Script 
 
@@ -567,6 +569,7 @@
 
 ## Vue 
 
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
 
