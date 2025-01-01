@@ -62,6 +62,8 @@
 - [flask](#flask)
 - [font](#font)
 - [frontend](#frontend)
+- [game-development](#game-development)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -103,6 +105,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
@@ -136,6 +139,7 @@
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -156,6 +160,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
+- [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
@@ -168,8 +173,10 @@
 
 ## ai 
 
+- [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，a simple OCR API server, very easy to deploy。
+- [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) - Neo4j GraphRAG for Python
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agent library for building LLM applications in Rust
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -449,7 +456,7 @@
 
 ## data 
 
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agent library for building LLM applications in Rust
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 
@@ -542,6 +549,7 @@
 
 ## elixir 
 
+- [beam-community/elixir-companies](https://github.com/beam-community/elixir-companies) - A list of companies currently using Elixir in production.
 - [straightdave/programming_elixir](https://github.com/straightdave/programming_elixir) - Elixir的入门（语言层面）知识
 
 ## emoji 
@@ -583,6 +591,14 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+
+## game-development 
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+## gamedev 
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 ## git 
 
@@ -627,6 +643,7 @@
 
 ## go 
 
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
@@ -639,6 +656,7 @@
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [erpeng/godis-cli](https://github.com/erpeng/godis-cli) - redis-cli go version
 - [erpeng/godis-cli-bigkey](https://github.com/erpeng/godis-cli-bigkey) - find big keys in redis
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -663,6 +681,7 @@
 - [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
@@ -766,7 +785,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
@@ -850,7 +869,7 @@
 
 ## llm 
 
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agent library for building LLM applications in Rust
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -884,6 +903,7 @@
 
 ## macos 
 
+- [ahkohd/tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - An example macOS Menubar app built with Tauri
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -893,6 +913,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -931,8 +952,13 @@
 
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
 
+## neural-network 
+
+- [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，a simple OCR API server, very easy to deploy。
+
 ## nextjs 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [upscayl/upscayl.github.io](https://github.com/upscayl/upscayl.github.io) - Upscayl's Official Website
 - [leon3s/nextauri](https://github.com/leon3s/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
@@ -989,6 +1015,7 @@
 
 ## openai 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容
@@ -1017,6 +1044,10 @@
 
 ## others 
 
+- [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+- [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio) - Open source repo for the WhyHow Knowledge Graph Studio
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Bear-03/vosk-rs](https://github.com/Bear-03/vosk-rs) - Rust bindings to the Vosk API Speech Recognition library
 - [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A customizable, feature-rich Astro theme for blog and portfolio creation.
@@ -1067,7 +1098,6 @@
 - [PE-CN/PE-CN.github.io](https://github.com/PE-CN/PE-CN.github.io) - Project Euler | 欧拉计划 中文翻译站
 - [ZhengHe-MD/ir-freiburg](https://github.com/ZhengHe-MD/ir-freiburg) - 
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [wwj718/forum-poetry](https://github.com/wwj718/forum-poetry) - 收集整理我喜欢的网络诗集
 - [jinliyl/Crawler](https://github.com/jinliyl/Crawler) - Crawler
 - [amaas/stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
@@ -1159,7 +1189,6 @@
 - [wzpan/hexo-theme-wixo](https://github.com/wzpan/hexo-theme-wixo) - A wiki theme for Hexo.
 - [qinjx/30min_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
-- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [facebook/transform360](https://github.com/facebook/transform360) - Transform360 is an equirectangular to cubemap transform for 360 video.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [humiaozuzu/wechat-explorer](https://github.com/humiaozuzu/wechat-explorer) - 微信聊天记录导出、分析工具
@@ -1272,6 +1301,7 @@
 
 ## python 
 
+- [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) - Neo4j GraphRAG for Python
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -1306,6 +1336,7 @@
 
 ## python3 
 
+- [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) - Neo4j GraphRAG for Python
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1334,6 +1365,7 @@
 
 ## react-native 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## rest-api 
@@ -1358,9 +1390,14 @@
 
 ## rust 
 
+- [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，a simple OCR API server, very easy to deploy。
+- [ahkohd/tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - An example macOS Menubar app built with Tauri
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agent library for building LLM applications in Rust
 - [leon3s/nextauri](https://github.com/leon3s/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [huhu/query.rs](https://github.com/huhu/query.rs) - A search engine for Rust
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
@@ -1384,8 +1421,13 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
+## security-tools 
+
+- [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
+
 ## self-hosted 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -1443,6 +1485,7 @@
 
 ## svelte 
 
+- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## swift 
@@ -1459,7 +1502,7 @@
 
 ## tailwindcss 
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 
 ## telegram 
@@ -1496,12 +1539,17 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## vim 
 
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
+
+## vpn 
+
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
 ## vue 
 
