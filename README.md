@@ -105,6 +105,9 @@
 
 ## Go 
 
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
@@ -138,7 +141,7 @@
 
 ## HTML 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [mlfoundations/evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic evals for LLMs
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -146,8 +149,9 @@
 - [PE-CN/PE-CN.github.io](https://github.com/PE-CN/PE-CN.github.io) - Project Euler | 欧拉计划 中文翻译站
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [skr-shop/manuals](https://github.com/skr-shop/manuals) - Do design No code 💻📱🛒📚
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-- [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
+- [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [despo/issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! (domain update)
 - [CyC2018/Text-Typesetting](https://github.com/CyC2018/Text-Typesetting) - :art: 中英混排文档在线排版工具
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -202,7 +206,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [guren-cloud/weapp-one](https://github.com/guren-cloud/weapp-one) - ONE·一个|图文 微信小程序/开源代码
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on (available in the Google Workspace Marketplace as Docs to Markdown) converts a Google Doc to simple Markdown and/or HTML.
 - [toobigdata/papa](https://github.com/toobigdata/papa) - 一个浏览器端数据爬虫，做每个人的数据助手
 - [program-in-chinese/overview](https://github.com/program-in-chinese/overview) - 中文编程的历史、现状和展望。issue 中进行相关问题的讨论.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -282,6 +286,8 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
+- [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [matteocourthoud/awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - A curated list of causal inference libraries, resources, and applications.
 - [willard-yuan/awesome-cbir-papers](https://github.com/willard-yuan/awesome-cbir-papers) - 📝Awesome and classical image retrieval papers
@@ -393,7 +399,7 @@
 - [cbdb-project/cbdb-online-main-server](https://github.com/cbdb-project/cbdb-online-main-server) - CBDB 在线系统主服务器
 - [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
 - [phacility/xhprof](https://github.com/phacility/xhprof) - XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
-- [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
+- [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Manager Search
 - [nauxliu/auto-correct](https://github.com/nauxliu/auto-correct) - 自动给中英文之间加入合理的空格并纠正专用名词大小写
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
@@ -406,10 +412,21 @@
 
 ## Python 
 
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
+- [natelandau/vid-cleaner](https://github.com/natelandau/vid-cleaner) - Tools to transcode, inspect and convert videos.
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - The most reliable AI agent framework that supports MCP.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [Picsart-AI-Research/MI-GAN](https://github.com/Picsart-AI-Research/MI-GAN) - [ICCV 2023] MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [open-thoughts/open-thoughts](https://github.com/open-thoughts/open-thoughts) - Fully open data curation for reasoning models
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [saveweb/review-2024](https://github.com/saveweb/review-2024) - WTF happened in 2024
@@ -417,6 +434,7 @@
 - [igorbenav/SQLModel-boilerplate](https://github.com/igorbenav/SQLModel-boilerplate) - An extendable async API using FastAPI, SQLModel, PostgreSQL and Redis.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [polyrabbit/hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio) - WhyHow Knowledge Graph Studio
 - [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) - Neo4j GraphRAG for Python
@@ -424,13 +442,13 @@
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Use LLMs to dig out what you care about from massive amounts of information and a variety of sources daily.
 - [jellydn/modern-python-2024-demo](https://github.com/jellydn/modern-python-2024-demo) - Modern development with Python in 2024
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
@@ -515,6 +533,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [latentcat/graphpu](https://github.com/latentcat/graphpu) - Large-scale 3D graph vis software written in Rust.
@@ -553,7 +572,6 @@
 - [matsui528/faiss_tips](https://github.com/matsui528/faiss_tips) - Some useful tips for faiss
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [nedbat/dot](https://github.com/nedbat/dot) - Personal dotfiles
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) - 独立开发/自由职业/远程工作资源列表
 - [zhoupro/os_init](https://github.com/zhoupro/os_init) - make your dev computer in a coffee time
@@ -592,15 +610,23 @@
 
 ## TypeScript 
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+- [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [pTinosq/Electro](https://github.com/pTinosq/Electro) - ⚡Electro is a blazingly fast image viewer built with Rust, featuring an integrated terminal for enhanced productivity.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [ccbikai/DNS.Surf](https://github.com/ccbikai/DNS.Surf) - Querying DNS Resolution Results in Different Regions Worldwide.
